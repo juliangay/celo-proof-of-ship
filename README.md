@@ -33,13 +33,9 @@ Proof of Ship leverages smart contracts to mint **Soulbound NFTs**, ensuring ver
 
 ## Key Features
 ✅ **GitHub Submission Tracking** - Verify and track public repository submissions.
-
 ✅ **Smart Contract Monitoring** - Record deployment activity on Celo Mainnet & Alfajores.
-
 ✅ **Social Verification** - Monitor Farcaster cast activity related to Proof of Ship.
-
 ✅ **Soulbound NFT Minting** - Reward verified contributors with immutable NFTs.
-
 ✅ **Automated Reward Distribution** - Distribute incentives to eligible addresses via SAFE wallet.
 
 ## Getting Started
